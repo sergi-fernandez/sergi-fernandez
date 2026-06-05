@@ -1,6 +1,6 @@
 ## Sergi Fernandez
 
-Product Manager in Sweden. I work on digital products where the hard part is not writing more requirements, but turning ambiguity into decisions that teams can ship.
+Senior Product Manager in Sweden. I work on digital products where the hard part is not writing more requirements, but turning ambiguity into decisions that teams can ship.
 
 I am strongest when the problem sits across users, data, operations, commercial logic, and technical constraints. That is where product work gets interesting: weak signal, too many stakeholders, incomplete evidence, real delivery limits, and a business case that still has to hold.
 
@@ -20,6 +20,12 @@ I am currently deepening my AI and technical workflow practice: AI-assisted prod
 | Technical fluency | Translate AI, data, hardware, and software constraints into practical product choices |
 | Stakeholder control | Keep competing agendas visible without letting the roadmap become a compromise document |
 | Adoption economics | Connect launch, usage, CAC, budget logic, retention, and operational follow-through |
+
+### AI Agent Skills
+
+| Repository | What It Contains | Why It Exists |
+| --- | --- | --- |
+| [Product skills for ChatGPT and Codex](https://github.com/sergi-fernandez/skills) | Reusable product workflows, `SKILL.md` files, ChatGPT Project instructions, and Custom GPT instructions | Turn senior product judgment into repeatable AI-agent workflows for research, codebase understanding, UX critique, prioritization, roadmaps, and business-case work |
 
 ### Product Case Studies
 
